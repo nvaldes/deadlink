@@ -1,4 +1,4 @@
-# DEAD<br>LINK
+# [DEAD<br>LINK](https://deadlink.io)
 
 A more personally useful take on the traditional [TodoMVC](http://todomvc.com/) project used to test out Javascript frameworks.
 
@@ -10,3 +10,4 @@ This project uses a standard feature set for an HTTP Client, very loosely based 
 - HTML, XML, and JSON bodies are linted
 - Responses are formatted, but not rendered - also available in raw form
 - Request history stored in an IndexedDB
+
