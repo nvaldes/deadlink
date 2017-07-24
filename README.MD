@@ -11,3 +11,13 @@ This project uses a standard feature set for an HTTP Client, very loosely based 
 - Responses are formatted, but not rendered - also available in raw form
 - Request history stored in an IndexedDB
 
+## Planned Frameworks
+
+- AngularJS (1.x)
+- Angular
+- React
+- Elm
+
+## Dependencies
+
+- [Dexie](http://dexie.org) as IndexedDB wrapper
